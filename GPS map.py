@@ -1,6 +1,5 @@
-import gmplot
 import serial
-ser = serial.Serial('com3', 115200)
+ser = serial.Serial('com3', 115200) #verander "com3" naar de juiste naam van seriele poort.
 path = ""
 # lat = []
 # long = []
